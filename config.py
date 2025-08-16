@@ -13,7 +13,7 @@ BOT_TOKEN = ""
 # Command prefix for Mudae and roll command to use.
 # Default setting below does $m
 COMMAND_PREFIX = "$"
-ROLL_COMMAND = "m"
+ROLL_COMMAND = "wa"
 
 #  User login info.
 #  This is not sent to any external server, but only uses to login to browser Discord.
